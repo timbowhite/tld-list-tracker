@@ -1,6 +1,6 @@
 # tld-list-tracker
 
-[![](https://tld-list.com/img/header-sspng)](https://tld-list.com)
+[![](https://tld-list.com/img/header-ss.png)](https://tld-list.com)
 
 
 ___
